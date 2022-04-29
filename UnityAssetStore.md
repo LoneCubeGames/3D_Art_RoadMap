@@ -1,5 +1,3 @@
-# Unity Asset Store
-
 ## Military
 
 [**| Grenades |**](https://github.com/EvSeStudio/RoadMap/wiki/Grenades)
