@@ -2,6 +2,9 @@
 
 [**Grenades**](https://github.com/EvSeStudio/RoadMap/wiki/Grenades)
 
+[**Molotov Cocktails**](https://github.com/EvSeStudio/RoadMap/wiki/Molotov-Cocktails)
+
+
 [**Handheld Radios**](https://github.com/EvSeStudio/RoadMap/wiki/Handheld-Radios)
 
 [**Drones**](https://github.com/EvSeStudio/RoadMap/wiki/Drones)
